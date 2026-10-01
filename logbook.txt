@@ -1,0 +1,4 @@
+LOGBOOK - Shashank Injeti - E26B07F0735 - group 05  - slot student number − 136
+SETUP: logbook started
+L1 guess: git status in a brand-new folder will say untracked
+L1 guess: git status will describe index.html as untracked
